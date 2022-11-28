@@ -1,22 +1,10 @@
 let handler =  m => m.reply(`
 ╭━━━━「 *SEWA* 」
-┊⫹⫺ *Hemat:* _5k/grup (1 minggu)_
-┊⫹⫺ *Normal:* _10k/grup (1 bulan)_
-┊⫹⫺ *Standar:* _20k/grup (2 bulan)_
-┊⫹⫺ *Pro:* _40k/grup (4 bulan)_                                                      
-┊⫹⫺ *Vip:* = _60k/grup (12 bulan)_
+┊⫹⫺ *8k:perbulan
+┊⫹⫺ *15k:permanen
 ╰═┅═━––––––๑
 
-╭━━━━「 *PREMIUM* 」
-┊⫹⫺ *Hemat:* _10k (1 minggu)_
-┊⫹⫺ *Normal:* _20k (1 bulan)_
-┊⫹⫺ *Pro:* _30k (4 bulan)_
-┊⫹⫺ *Vip:* _40k (8 bulan)_                                               
-┊⫹⫺ *Permanent:* = _50k (Unlimited)_
-╰═┅═━––––––๑
-
-🗣️: Kak, Kok harganya mahal banget?
-💬: Mau tawar menawar? boleh, silahkan chat owner aja
+💬: minat silahkan chat owner aja
 Minat Hubungi Owner
 
 `.trim()) // Tambah sendiri kalo mau
