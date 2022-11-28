@@ -14,8 +14,6 @@ let handler =  m => m.reply(`
 ┊⫹⫺ *Vip:* _40k (8 bulan)_                                               
 ┊⫹⫺ *Permanent:* = _50k (Unlimited)_
 ╰═┅═━––––––๑
-*⫹⫺ PAYMENT*
-*DANA: 085710264622*
 
 🗣️: Kak, Kok harganya mahal banget?
 💬: Mau tawar menawar? boleh, silahkan chat owner aja
